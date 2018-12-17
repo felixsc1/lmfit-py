@@ -1,6 +1,9 @@
 LMfit-py
 ========
 
+Forked on 17.12.2018. Changes in this fork: Remove execution time limit of 30s, as discussed in this thread: https://groups.google.com/forum/#!topic/lmfit-py/Ex3IfjNjiQE  At this time its not part of the main repository.
+
+
 .. image:: https://travis-ci.org/lmfit/lmfit-py.png
    :target: https://travis-ci.org/lmfit/lmfit-py
 
